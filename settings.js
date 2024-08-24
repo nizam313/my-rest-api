@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'NezaFvnky'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://<apineza>:<43VDlz8GgqR8eEuC>@apineza.sy8jz.mongodb.net/?retryWrites=true&w=majority&appName=apineza" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "muhammad.neizam@gmail.com" //email
 global.email_password = "Neza@#$123" //application password email
